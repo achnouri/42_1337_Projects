@@ -1,4 +1,8 @@
+<hr>
+
 # [ 42 & 1337 Projects ]
+
+<hr>
 
 If you like this repo, be sure to ⭐ it.
 
