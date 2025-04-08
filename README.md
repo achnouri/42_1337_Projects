@@ -17,5 +17,5 @@ If you like this repo, be sure to ⭐ it.
 |  05   | [Minitalk](https://github.com/achnouri/Minitalk)                                                                                          |
 |  06   | [Fractol](https://github.com/achnouri/Fractol)                                                                                            | 
 |  07   | [Pushswap](https://github.com/achnouri/Push_swap)                                                                                         |
-| ....  | others in progress ...                                                                                                                    |
+| ....  | Other projects under implementation ...                                                                                                   |
 <hr>
