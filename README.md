@@ -1,12 +1,6 @@
-<hr>
-
 # [ 42 & 1337 Projects ]
 
-<hr>
-
 If you like this repo, be sure to ⭐ it.
-
-<hr>
 
 ## [All projects link](https://github.com/achnouri)) 
 
