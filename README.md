@@ -2,7 +2,7 @@
 
 If you like this repo, be sure to ⭐ it.
 
-## [All projects link](https://github.com/achnouri)) 
+## [All projects link](https://github.com/achnouri) 
 
 
 
