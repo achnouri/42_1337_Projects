@@ -14,6 +14,7 @@ If you like this repo, be sure to ⭐ it.
 |  04   | [Born2beroot](https://github.com/achnouri/Born2beroot)                                                                                    |
 |  05   | [Minitalk](https://github.com/achnouri/Minitalk)                                                                                          |
 |  06   | [Fractol](https://github.com/achnouri/Fractol)                                                                                            | 
-|  07   | [Pushswap](https://github.com/achnouri/Push_swap)                                                                                         |
+|  07   | [Pushswap](https://github.com/achnouri/Push_swap)       
+|  08   | [Minishell](https://github.com/achnouri/minishell-master)
 | ....  | Other projects under implementation ...                                                                                                   |
 <hr>
