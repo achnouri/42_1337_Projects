@@ -16,5 +16,6 @@ If you like this repo, be sure to ⭐ it.
 |  06   | [Fractol](https://github.com/achnouri/Fractol)                                                                                            | 
 |  07   | [Pushswap](https://github.com/achnouri/Push_swap)       
 |  08   | [Minishell](https://github.com/achnouri/minishell-master)
+|  09   | [Philosophers](https://github.com/achnouri/Philosophers)
 | ....  | Other projects under implementation ...                                                                                                   |
 <hr>
