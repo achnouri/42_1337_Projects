@@ -15,8 +15,11 @@
 | **05** | 📡 **Minitalk** – Client/server communication via signals | [🔗 Link ](https://github.com/achnouri/Minitalk) |
 | **06** | 🎨 **Fractol** – Interactive fractal renderer | [🔗 Link ](https://github.com/achnouri/Fractol) |
 | **07** | 🔄 **Push_swap** – Sorting algorithm with stack operations | [🔗 Link ](https://github.com/achnouri/Push_swap) |
-| **08** | 🐚 **Minishell** – A tiny bash-like shell | [🔗 Link ](https://github.com/achnouri/minishell-master) |
+| **08** | 🐚 **Minishell** – A small bash-like shell | [🔗 Link ](https://github.com/achnouri/minishell-master) |
 | **09** | 🤝 **Philosophers** – Multithreading & synchronization (Dining Philosophers) | [🔗 Link ](https://github.com/achnouri/Philosophers) |
+| **10** | ➕➕ **CPP_Modules** (10 Modules) – C++ basics to advanced (OOP, inheritance, polymorphism, templates, STL ...) | [🔗 Link ](https://github.com/achnouri/CPP_modules) |
+
+https://github.com/achnouri/CPP_Module_00
 | … | ⚙️ More projects coming soon... | 🚧 In Progress |
 
 ---
