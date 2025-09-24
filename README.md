@@ -4,6 +4,9 @@
 
 ## 🌍 [View All Projects](https://github.com/achnouri)  
 
+
+> These are my projects from 42 & 1337 School, showcasing skills in programming, algorithms, system design, and computer science fundamentals. Each project reflects a key stage of the curriculum and highlights my growth as a developer
+
 ---
 
 | #️⃣ | 📂 Project Name | 🔗 Repository |
