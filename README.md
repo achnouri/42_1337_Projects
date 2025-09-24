@@ -17,9 +17,7 @@
 | **07** | 🔄 **Push_swap** – Sorting algorithm with stack operations | [🔗 Link ](https://github.com/achnouri/Push_swap) |
 | **08** | 🐚 **Minishell** – A small bash-like shell | [🔗 Link ](https://github.com/achnouri/minishell-master) |
 | **09** | 🤝 **Philosophers** – Multithreading & synchronization (Dining Philosophers) | [🔗 Link ](https://github.com/achnouri/Philosophers) |
-| **10** | ➕➕ **CPP_Modules** (10 Modules) – C++ basics to advanced (OOP, inheritance, polymorphism, templates, STL ...) | [🔗 Link ](https://github.com/achnouri/CPP_modules) |
-
-https://github.com/achnouri/CPP_Module_00
+| **10** | ++ **CPP_Modules** (10 Modules) – C++ basics to advanced (OOP, inheritance, polymorphism, templates, ...) | [🔗 Link ](https://github.com/achnouri/CPP_modules) |
 | … | ⚙️ More projects coming soon... | 🚧 In Progress |
 
 ---
